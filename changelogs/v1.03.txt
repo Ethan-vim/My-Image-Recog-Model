@@ -1,0 +1,3 @@
+-IMPORTANT
+-FEATURES
+This update adds crucial updates to the model.py file.  The user may now save the state_dict to a file.  Also adding a evaluation mode in the model to support real-world evaluation.

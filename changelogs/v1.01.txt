@@ -1,1 +1,2 @@
+-START OF PROGRAM
 This is the initial commit to start the program

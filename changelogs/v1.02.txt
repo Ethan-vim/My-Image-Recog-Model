@@ -1,1 +1,2 @@
+-FEATURES
 In this update, I added logging for a better view of the verbose output.  Unfortunately, this is currently not a way to debug due to lack of output/logs.
